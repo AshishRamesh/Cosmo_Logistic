@@ -1,0 +1,6 @@
+Invoking command in '/home/jonathan/colcon_ws/build/eyantra_warehouse': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/jonathan/colcon_ws/src/eyantra_warehouse -DCMAKE_INSTALL_PREFIX=/home/jonathan/colcon_ws/install/eyantra_warehouse
+Invoked command in '/home/jonathan/colcon_ws/build/eyantra_warehouse' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/jonathan/colcon_ws/src/eyantra_warehouse -DCMAKE_INSTALL_PREFIX=/home/jonathan/colcon_ws/install/eyantra_warehouse
+Invoking command in '/home/jonathan/colcon_ws/build/eyantra_warehouse': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jonathan/colcon_ws/build/eyantra_warehouse -- -j16 -l16
+Invoked command in '/home/jonathan/colcon_ws/build/eyantra_warehouse' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jonathan/colcon_ws/build/eyantra_warehouse -- -j16 -l16
+Invoking command in '/home/jonathan/colcon_ws/build/eyantra_warehouse': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jonathan/colcon_ws/build/eyantra_warehouse
+Invoked command in '/home/jonathan/colcon_ws/build/eyantra_warehouse' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jonathan/colcon_ws/build/eyantra_warehouse

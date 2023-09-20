@@ -1,0 +1,6 @@
+Invoking command in '/home/jonathan/colcon_ws/build/ebot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/jonathan/colcon_ws/src/ebot_description -DCMAKE_INSTALL_PREFIX=/home/jonathan/colcon_ws/install/ebot_description
+Invoked command in '/home/jonathan/colcon_ws/build/ebot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/jonathan/colcon_ws/src/ebot_description -DCMAKE_INSTALL_PREFIX=/home/jonathan/colcon_ws/install/ebot_description
+Invoking command in '/home/jonathan/colcon_ws/build/ebot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jonathan/colcon_ws/build/ebot_description -- -j16 -l16
+Invoked command in '/home/jonathan/colcon_ws/build/ebot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jonathan/colcon_ws/build/ebot_description -- -j16 -l16
+Invoking command in '/home/jonathan/colcon_ws/build/ebot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jonathan/colcon_ws/build/ebot_description
+Invoked command in '/home/jonathan/colcon_ws/build/ebot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jonathan/colcon_ws/build/ebot_description
